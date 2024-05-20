@@ -1,1 +1,2 @@
-# Factory-IO-Assembler-PLC-FX3U
+# Factory IO Assembler controlled by PLC FX3U
+# Introduction
